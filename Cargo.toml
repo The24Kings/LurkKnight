@@ -1,5 +1,5 @@
 [package]
-name = "lurk-knight"
+name = "LurkKnight"
 version = "0.1.0"
 description = "A client for connecting to a LURK powered server"
 authors = ["The24Kings <24kingsunite@gmail.com>"]
